@@ -1,0 +1,5 @@
+A company provides an entertainment platform for music, video, live stream, chat, etc. 
+The company server system is divided into zones by geographic area. 
+In order to meet the growing number of users, 
+the company is interested in forecasting the total bandwidth 
+of each server zone and the maximum number of users simultaneously accessing the server within the next month.
