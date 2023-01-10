@@ -17,3 +17,7 @@ This is a jupyter notebook using Time Series Method (Triple Exponential Smoothin
 
 ## Final Triple Exponential smoothming after tunning 
 ![Triple Exponential smoothing after tunning](https://user-images.githubusercontent.com/112948322/211457150-0a7dd7ab-51d2-4fd5-a171-c68b18c07f0e.png)
+
+Red line represents model fitting train set.
+Blue line represents model tunning and fitting valid set.
+Green line represents model predicting test set.
